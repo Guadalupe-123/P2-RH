@@ -24,6 +24,18 @@ Proyecto realizado exclusivamente en **Excel** para estimar y explicar el **ries
 - **Años desde última promoción** (puntos de corte).
 - **Horas extra** promedio y su relación con el riesgo.
 
+## KPIs (resumen)
+
+- **Riesgo total de fuga**: __%  · **Distribución**: Bajo __% · Medio __% · Alto __%
+- **Edad promedio (años)**: Estables __ · Riesgo Medio __ · Riesgo Alto __
+- **Ingreso promedio**: Estables $__ · Riesgo Medio $__ · Riesgo Alto $__
+- **Satisfacción**: promedio __/5 · % con ≤2: __%
+- **Sin promoción (años)**: mediana __ · p90 __
+- **Horas extra**: promedio __ h/sem · % con >10 h/sem: __%
+- **Top 3 áreas con mayor riesgo**: 1) __  2) __  3) __
+- **Antigüedad**: distribución 0–1: __% · 1–3: __% · 3–5: __% · 5+: __%
+
+
 ## Notas
 - El repositorio ignora temporales de Office (`~$*`) y archivos de sistema.
 - Si contiene datos reales/sensibles, mantener el repositorio **Privado**.

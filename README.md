@@ -29,6 +29,9 @@ Proyecto realizado exclusivamente en **Excel** para estimar y explicar el **ries
 - Si contiene datos reales/sensibles, mantener el repositorio **Privado**.
 - Puedes renombrar el archivo a `.xlsx` si confirmas que no hay macros.
 
-## Enlaces rápidos
+## Vistas
+![Dashboard RH](docs/Dashboard%20RH.jpg)
+
+
 📂 **Archivo principal:** [P2 RH.xlsm](./P2%20RH.xlsm)  
 📄 **Informe ejecutivo:** [Reporte_RH_Riesgo.docx](./Reporte_RH_Riesgo.docx)
